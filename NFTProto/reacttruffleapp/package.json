@@ -1,0 +1,9 @@
+{
+  "dependencies": {
+    "@emotion/react": "^11.5.0",
+    "@mui/icons-material": "^5.0.5",
+    "express": "^4.17.1",
+    "pg": "^8.7.1",
+    "solc": "^0.8.4"
+  }
+}

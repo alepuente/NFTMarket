@@ -1,0 +1,146 @@
+[
+  {
+    "id": 0,
+    "name": "Frieda",
+    "picture": "https://i.pinimg.com/originals/0a/1f/82/0a1f820e29719c7b67e9d5aa44241155.png",
+    "isAuction": true,
+    "auctionEndDate": "2021-12-04T14:45:59",
+    "currentBid": 10,
+    "price":1
+  },
+  {
+    "id": 1,
+    "name": "Gina",
+    "picture": "https://images.pexels.com/photos/1193743/pexels-photo-1193743.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+    "isAuction": true,
+    "auctionEndDate": "2021-12-05T13:51:50",
+    "currentBid": 420,
+    "price":1
+  },
+  {
+    "id": 2,
+    "name": "Collins",
+    "picture": "https://images.pexels.com/photos/1585325/pexels-photo-1585325.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+    "isAuction": true,
+    "auctionEndDate": "2021-12-04T15:36:50",
+    "currentBid": 500,
+    "price":1
+  },
+  {
+    "id": 3,
+    "name": "Melissa",
+    "picture": "https://images.pexels.com/photos/161154/stained-glass-spiral-circle-pattern-161154.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+    "isAuction": false,
+    "auctionEndDate": 1600,
+    "currentBid": 120,
+    "price":1
+  },
+  {
+    "id": 4,
+    "name": "Jeanine",
+    "picture": "https://images.pexels.com/photos/1194420/pexels-photo-1194420.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940s",
+    "isAuction": false,
+    "auctionEndDate": 1600,
+    "currentBid": 120,
+    "price":1
+  },
+  {
+    "id": 5,
+    "name": "Elvia",
+    "picture": "https://images.pexels.com/photos/1988681/pexels-photo-1988681.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+    "isAuction": false,
+    "auctionEndDate": 1600,
+    "currentBid": 120,
+    "price":1
+  },
+  {
+    "id": 6,
+    "name": "Latisha",
+    "picture": "https://images.pexels.com/photos/699466/pexels-photo-699466.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+    "isAuction": false,
+    "auctionEndDate": 1600,
+    "currentBid": 120,
+    "price":1
+  },
+  {
+    "id": 7,
+    "name": "Coleman",
+    "picture": "https://images.pexels.com/photos/1918290/pexels-photo-1918290.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+    "isAuction": false,
+    "auctionEndDate": 1600,
+    "currentBid": 120,
+    "price":1
+  },
+  {
+    "id": 8,
+    "name": "Nichole",
+    "picture": "https://images.pexels.com/photos/1081685/pexels-photo-1081685.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+    "isAuction": false,
+    "auctionEndDate": 1600,
+    "currentBid": 120,
+    "price":1
+  },
+  {
+    "id": 9,
+    "name": "Fran",
+    "picture": "https://images.pexels.com/photos/545008/pexels-photo-545008.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+    "isAuction": false,
+    "auctionEndDate": 1600,
+    "currentBid": 120,
+    "price":1
+  },
+  {
+    "id": 10,
+    "name": "Leonor",
+    "picture": "https://images.pexels.com/photos/166277/pexels-photo-166277.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+    "isAuction": false,
+    "auctionEndDate": 1600,
+    "currentBid": 120,
+    "price":1
+  },
+  {
+    "id": 11,
+    "name": "Dean",
+    "picture": "https://images.pexels.com/photos/2110951/pexels-photo-2110951.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+    "isAuction": false,
+    "auctionEndDate": 1600,
+    "currentBid": 120,
+    "price":1
+  },
+  {
+    "id": 12,
+    "name": "Stevenson",
+    "picture": "https://images.pexels.com/photos/1269968/pexels-photo-1269968.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+    "isAuction": false,
+    "auctionEndDate": 1600,
+    "currentBid": 120,
+    "price":1
+  },
+  {
+    "id": 13,
+    "name": "Kristina",
+    "picture": "https://images.pexels.com/photos/1109352/pexels-photo-1109352.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+    "isAuction": false,
+    "auctionEndDate": 1600,
+    "currentBid": 120,
+    "price":1
+  },
+  {
+    "id": 14,
+    "name": "Ethel",
+    "picture": "https://images.pexels.com/photos/672630/pexels-photo-672630.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+    "isAuction": false,
+    "auctionEndDate": 1600,
+    "currentBid": 120,
+    "price":1
+  },
+  {
+    "id": 15,
+    "name": "Terry",
+    "picture": "https://images.pexels.com/photos/1509534/pexels-photo-1509534.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+    "isAuction": true,
+    "auctionEndDate": "2021-12-20T13:51:50",
+    "currentBid": 1000,
+    "price":1
+  }
+]
